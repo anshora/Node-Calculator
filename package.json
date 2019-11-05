@@ -6,7 +6,7 @@
   "scripts": {
     "test-init": "./node_modules/jasmine/bin/jasmine.js  init",
     "test": "./node_modules/jasmine/bin/jasmine.js",
-    "start": "nodemon app.js"
+    "start": "npm install express"
   },
   "author": "Yathansh Arora",
   "license": "ISC",
